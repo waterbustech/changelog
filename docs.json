@@ -3,9 +3,9 @@
     "theme": "linden",
     "name": "Waterbus",
     "colors": {
-        "primary": "#9B28D0",
-        "light": "#FFA8DC",
-        "dark": "#9B28D0"
+        "primary": "#a46ef0",
+        "light": "#c5a1fa",
+        "dark": "#7742c7"
     },
     "favicon": "/favicon.ico",
     "logo": {
